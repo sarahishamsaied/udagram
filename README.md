@@ -23,7 +23,7 @@ Provision the necessary AWS services needed for running the application:
     5 - After installation, start the api in dev mode with npm run start
     
    
- ## CircleCi 
+ ## CircleCi  [![CircleCI](https://circleci.com/gh/sarahishamsaied/udagram.svg?style=svg)](https://circleci.com/gh/sarahishamsaied/udagram)
 - [CircleCi](https://app.circleci.com/pipelines/github/sarahishamsaied/udagram/5/workflows/03e30959-ac8f-494d-8957-0bebc54b6e76/jobs/6)
 ## Backend Depolyed Api
 - [backend api](http://udagram-api-dev.eba-ypi5tsnc.us-east-1.elasticbeanstalk.com)
