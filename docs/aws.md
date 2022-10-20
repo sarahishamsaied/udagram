@@ -2,6 +2,10 @@
 
 - RDS Postgres Database
 
+![Screenshot (313)](https://user-images.githubusercontent.com/71923204/197016414-157052f6-a67f-4862-af23-e8f57f2c4121.png)
+
+   - Security Groups
+   
 ![Screenshot (314)](https://user-images.githubusercontent.com/71923204/196947203-bbd51780-9aa8-4c26-9f40-1b0bcd3a7d51.png)
 
 - ElasticBeanstalk Environment & Application
