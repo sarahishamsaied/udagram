@@ -37,8 +37,8 @@ Provision the necessary AWS services needed for running the application:
 
 # Pipeline Architecture
 
-![Screenshot (325)](https://user-images.githubusercontent.com/71923204/197045279-a341c2c0-a3b2-462d-a9df-b7312a9ceedb.png)
+![pipeline](https://user-images.githubusercontent.com/71923204/197065246-e4e5698e-d99a-4bf9-bfee-960938b50ed5.png)
 
 # Application Deployment Architecture
 
-![Web App Reference Architecture (1)](https://user-images.githubusercontent.com/71923204/197045047-ebc46329-d51a-4e8d-bbe2-f352492832ce.png)
+![apparchitecture](https://user-images.githubusercontent.com/71923204/197065259-3c8c3b40-2e7e-4464-9ad2-0f177eb9f60e.png)
