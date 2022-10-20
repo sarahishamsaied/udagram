@@ -33,3 +33,12 @@ Provision the necessary AWS services needed for running the application:
 ## Docs & Samples
 
 - [Docs](https://github.com/sarahishamsaied/udagram/tree/main/docs)
+
+
+# Pipeline Architecture
+
+![Screenshot (325)](https://user-images.githubusercontent.com/71923204/197045279-a341c2c0-a3b2-462d-a9df-b7312a9ceedb.png)
+
+# Application Deployment Architecture
+
+![Web App Reference Architecture (1)](https://user-images.githubusercontent.com/71923204/197045047-ebc46329-d51a-4e8d-bbe2-f352492832ce.png)
